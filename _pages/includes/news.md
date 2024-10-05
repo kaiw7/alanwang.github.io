@@ -16,6 +16,6 @@
   <li> <i>2024.04</i>: 🎉 One first-author paper is accepted by CVPR 2024. </li>
   <li> <i>2023.12</i>: 🎉 One first-author paper is accepted by ICASSP 2024. </li>
   <li> <i>2023.07</i>: 🎉 One first-author paper is accepted by APSIPA 2023. </li>
-  <li> <i>2022.09</i>: 📖 Starting my Ph.D study in University of Toronto </li>
+  <li> <i>2022.09</i>: 📖 Starting my Ph.D study in University of Toronto. </li>
   </ul>
 </div>
